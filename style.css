@@ -1,0 +1,24 @@
+body{
+   background-color: mediumblue;
+   font: normal 15pt italic;
+   
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: white;
+    border-radius: 10px;       /* Serve para arredondar as bordas*/
+    padding: 15px;              /*Aumentar o tamanho  */
+    width: 500px;               /*Largura */
+    margin: auto;               /*Centralizar */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.473);
+    
+    
+}
+footer{
+    
+    color: white;
+    text-align: center;
+}
